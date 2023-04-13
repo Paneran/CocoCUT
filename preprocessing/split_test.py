@@ -1,0 +1,1 @@
+# write script that will randomly take images from annotated directory and move images to new directory
